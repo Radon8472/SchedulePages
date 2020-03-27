@@ -1,4 +1,4 @@
-<?php
+<?php namespace processwire;
 
 /**
  * ProcessWire Schedule Pages Module
