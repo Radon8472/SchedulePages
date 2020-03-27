@@ -48,7 +48,7 @@ You can load this module by adding this to your composer.json in processwire and
     "formmailer/schedulepages": "^1.2.2"
   },
   "repositories": [
-    { "type": "github", "url": "https://github.com/formmailer/SchedulePages"  }
+    { "type": "github", "url": "https://github.com/Radon8472/SchedulePages"  }
   ]
 }
 `
